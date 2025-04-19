@@ -1,0 +1,21 @@
+!MS$FREEFORM
+! Microsoft Developer Studio generated include file.
+! Used by Lines2.rc
+!
+      integer, parameter :: IDC_MYICON                      = 2
+      integer, parameter :: IDD_LINES2_DIALOG               = 102
+      integer, parameter :: IDD_ABOUTBOX                    = 103
+      integer, parameter :: IDS_APP_TITLE                   = 103
+      integer, parameter :: IDM_ABOUT                       = 104
+      integer, parameter :: IDM_EXIT                        = 105
+      integer, parameter :: IDS_HELLO                       = 106
+      integer, parameter :: IDI_LINES2                      = 107
+      integer, parameter :: IDI_SMALL                       = 108
+      integer, parameter :: IDC_LINES2                      = 109
+      integer, parameter :: IDR_MAINFRAME                   = 128
+      integer, parameter :: ID_KEY_UP                       = 32771
+      integer, parameter :: ID_KEY_DOWN                     = 32772
+      integer, parameter :: ID_KEY_LEFT                     = 32773
+      integer, parameter :: ID_KEY_RIGHT                    = 32774
+      integer, parameter :: ID_KEY_ENTER                    = 32775
+      integer, parameter :: IDC_STATIC                      = 65535
